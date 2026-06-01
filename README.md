@@ -1,18 +1,4 @@
-````md
-# Understanding Tokens, Attention, and Transformer Blocks
 
-## Tokens
-Tokens are the basic units a transformer works with. They are chunks of text, usually words or pieces of words, converted into numerical vectors. Each token becomes a point in a high-dimensional space, carrying an initial representation of meaning and context.
-
-Example:
-
-```text
-"Transformers are powerful"
-↓
-["Transform", "ers", "are", "powerful"]
-````
-
----
 
 ## Attention Mechanism
 
